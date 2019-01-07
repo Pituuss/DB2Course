@@ -94,7 +94,6 @@ fabric.properties
 .idea/
 neo4j/
 pom.xml
-src/
 .idea/.name
 .idea/compiler.xml
 .idea/encodings.xml
